@@ -13,6 +13,8 @@ from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QAction, QSl
 from PyQt5 import uic
 import sys
 
+# Add QSlider to imports
+
 
 class UI(QMainWindow):
     def __init__(self):
